@@ -1,0 +1,2 @@
+model_checkpoint_path: "manuelCP"
+all_model_checkpoint_paths: "manuelCP"
